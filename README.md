@@ -12,3 +12,8 @@ Aplicación para mostrar 2 vídeos y manipular un switching de play/pause y mute
 ## Levantar servidor
 
   Se debe correr con el comando npm run start y levantará en localhost:3000
+  
+## Nota
+
+  El botón de sonido propio del reproductor lo mostré para que pudieran visualizar que 
+  el audio del video se encuentra muteado o habilitado.
